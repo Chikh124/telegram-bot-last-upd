@@ -1,0 +1,3 @@
+aiogram
+aiosqlite
+python-dotenv
